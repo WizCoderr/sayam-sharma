@@ -402,7 +402,12 @@ h6 {
   left: 0;
   right: 0;
 }
-
+#hero h2{
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #45505b;
+}
 #hero h1 {
   margin: 0;
   font-size: 64px;
