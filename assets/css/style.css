@@ -594,6 +594,12 @@ section {
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+.skills p{
+  font-size: 20px;
+  font-weight: 600;
+  color: #45505b;
+  margin-bottom: 20px;
+}
 .skills .progress {
   height: 60px;
   display: block;
